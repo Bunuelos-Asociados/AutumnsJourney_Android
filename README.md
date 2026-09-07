@@ -13,5 +13,5 @@ Puedes descargar la versión para Android desde la sección **Releases** de este
 2. Instálalo en tu dispositivo Android.
 3. Abre el juego y disfruta.
 
-> **Nota:** Este proyecto es únicamente un port para Android del juego original. Todos los derechos pertenecen a su creador, **Ryu_san**.
+> **Nota:** Este proyecto es únicamente un port para Android del juego original. Todos los derechos pertenecen a su creador, **Apple Cider**.
 
